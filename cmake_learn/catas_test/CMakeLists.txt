@@ -1,0 +1,6 @@
+cmake_minimum_required (VERSION 2.8)
+PROJECT(test)
+include_directories(func1 func2)
+aux_source_directory(func1 FUNC1_SOURCE)
+aux_source_directory(func2 FUNC2_SOURCE)
+add_executable(main main.cpp ${FUNC1_SOURCE} ${FUNC2_SOURCE})

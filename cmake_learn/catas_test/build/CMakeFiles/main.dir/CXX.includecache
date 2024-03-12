@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/wangxv/Files/hw/jw/cmake_learn/catas_test/func1/func1.cpp
+iostream
+-
+/home/wangxv/Files/hw/jw/cmake_learn/catas_test/func1/func1.h
+-
+
+/home/wangxv/Files/hw/jw/cmake_learn/catas_test/func1/func1.h
+
+/home/wangxv/Files/hw/jw/cmake_learn/catas_test/func2/func2.cpp
+iostream
+-
+/home/wangxv/Files/hw/jw/cmake_learn/catas_test/func2/func2.h
+-
+
+/home/wangxv/Files/hw/jw/cmake_learn/catas_test/func2/func2.h
+

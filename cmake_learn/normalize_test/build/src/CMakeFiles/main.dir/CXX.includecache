@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/wangxv/Files/hw/jw/cmake_learn/normalize_test/include/ssvector.h
+
+/home/wangxv/Files/hw/jw/cmake_learn/normalize_test/src/main.cpp
+iostream
+-
+/home/wangxv/Files/hw/jw/cmake_learn/normalize_test/include/ssvector.h
+-
+
+/home/wangxv/Files/hw/jw/cmake_learn/normalize_test/src/ssvector.cpp
+/home/wangxv/Files/hw/jw/cmake_learn/normalize_test/include/ssvector.h
+-
+

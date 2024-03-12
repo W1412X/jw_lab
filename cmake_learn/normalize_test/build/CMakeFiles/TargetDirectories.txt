@@ -1,0 +1,5 @@
+/home/wangxv/Files/hw/jw/cmake_learn/normalize_test/build/CMakeFiles/rebuild_cache.dir
+/home/wangxv/Files/hw/jw/cmake_learn/normalize_test/build/CMakeFiles/edit_cache.dir
+/home/wangxv/Files/hw/jw/cmake_learn/normalize_test/build/src/CMakeFiles/rebuild_cache.dir
+/home/wangxv/Files/hw/jw/cmake_learn/normalize_test/build/src/CMakeFiles/edit_cache.dir
+/home/wangxv/Files/hw/jw/cmake_learn/normalize_test/build/src/CMakeFiles/main.dir
